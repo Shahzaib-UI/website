@@ -1,0 +1,200 @@
+{
+    "basic_info": {
+      "description_header": "Hello!",
+      "description": "👋 I'm Shahzaib Hassan. Bachelor in computer science. Looking for opportunities in market offering the positions for Software Developers (.NET). Having experience in ERP, HRMS, Sales and distribution systems development. Having enthusiasm for various modern technology stack i.e MERN. Also a freelance content writer worked for various satisfied clients. Written articles, scripts and blogs related to tech, current affairs, pop culture, plays and politics. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "ERP SYSTEM",
+        "startDate": "2020-2021",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "https://www.lucanet.com/fileadmin/user_upload/Images_and_Graphics/Graphics_and_Icons/Infographics/infographic-erp-US.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": ".Net"
+          },
+          {
+            "class":"devicon-jquery-plain",
+            "name": "JQuery"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "Ms SQL Server"
+            
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+
+        ]
+      },
+      {
+        "title": "HRMS",
+        "startDate": "2021",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "https://website-assets-fw.freshworks.com/attachments/ckmnil1y000pu5sg1jvhks67z-freshteam-hrms-software.one-half.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": ".Net"
+          },
+          {
+            "class":"devicon-jquery-plain",
+            "name": "JQuery"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "Ms SQL Server"
+            
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "HeyHungry",
+        "startDate": "2015 (under development)",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "https://www.openxcell.com/wp-content/uploads/2020/12/sdlc.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "REACT JS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dotnetcore-plain",
+            "name": ".Net Core"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "Ms SQL Server"
+            
+          },
+          {
+            "class":"devicon-materialui-plain",
+            "name":"Material UI"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Appicoders Inc",
+        "title": "Software developer - .Net",
+        "years": "6/2021 - 9/2021",
+        "mainTech": [
+          "ASP .NET"
+        ],
+        "technologies": [
+          "Asp .NET",
+          "Javascript",
+          "Bootstrap",
+          "MS SQL Server",
+          "Web Forms",
+          "Crystal Reports",
+          "HTML5",
+          "CSS3",
+          "AJAX",
+          "Telerik"
+        ]
+      },
+      {
+        "company": "HDK Solutions Pvt Ltd",
+        "title": "QA & Support / Software Developer",
+        "years": "12/2020 - 5/2021",
+        "mainTech": [
+          "ASP.NET"
+        ],
+        "technologies": [
+          "Asp .NET",
+          "Javascript",
+          "Bootstrap",
+          "MS SQL Server",
+          "Web Forms",
+          "Crystal Reports",
+          "HTML5",
+          "CSS3",
+          "JQUERY",
+          "MS EXCEL"
+        ]
+      },
+      {
+        "company": "Trout Digital",
+        "title": ".NET Intern",
+        "years": "3/2020 - 5/2020",
+        "mainTech": [
+          "ASP.NET"
+        ],
+        "technologies": [
+          "Asp .NET",
+          "Javascript",
+          "Bootstrap",
+          "MS SQL Server",
+          "Web Forms",
+          "HTML5",
+          "CSS3",
+          "JQUERY"
+        ]
+      }
+
+    ]
+  }

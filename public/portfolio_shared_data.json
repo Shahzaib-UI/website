@@ -1,0 +1,73 @@
+{
+    "basic_info": {
+      "name": "Shahzaib F Hassan",
+      "titles": [ "Software Developer", "Software Engineer", "Fullstack Software Engineer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Shahzaib-UI",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/shahzaib-hassan04/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": ".NET",
+          "class": "devicon-dot-net-plain",
+          "level": "90"
+        },
+        {
+          "name": ".NET Core",
+          "class": "devicon-dotnetcore-plain",
+          "level": "90"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "MS SQL",
+          "class": "devicon-microsoftsqlserver-plain",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
